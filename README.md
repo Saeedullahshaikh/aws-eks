@@ -88,3 +88,12 @@ Type `yes` when prompted.
 ## Configuration
 
 Edit `variables.tf` to customize settings like region, cluster name, and instance types.
+
+## Author
+
+**Saeedullah Shaikh**
+- GitHub: [@Saeedullahshaikh](https://github.com/Saeedullahshaikh)
+
+## License
+
+MIT License
